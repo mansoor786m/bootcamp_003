@@ -11,11 +11,11 @@ function App() {
 
         <hr/>
         
-        <Dinner dishnsme = "chiken karahi" sweetdish = "kheer"/>
+        <Dinner dishnsme = "baryani" sweetdish = "Russ malai"/>
 
         <hr/>
         
-        <Dinner dishnsme = "chiken karahi" sweetdish = "kheer"/>
+        <Dinner dishnsme = "Mutton Qorma" sweetdish = "Dhoda"/>
 
       </div>
   );
